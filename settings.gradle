@@ -1,0 +1,3 @@
+include ':mvvm_recyclerapp'
+include ':mvvm_basicApp'
+rootProject.name='MVVM_ExampleApp'
